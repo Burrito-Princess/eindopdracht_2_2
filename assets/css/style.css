@@ -1,0 +1,35 @@
+body{
+    background-color: green;
+}
+
+#card1{
+    background-color: white;
+}
+
+.cornernumbertop{
+    background-color: blue;
+}
+
+.smallclovertop{
+    background-color: pink;
+}
+
+.icon{
+    height: 40px;
+}
+
+.pip{
+    background-color: aqua;
+}
+
+.pip > img{
+    height: 100px;
+}
+
+.smallscloverbottom{
+    background-color: beige;
+}
+
+.cornernumberbottom{
+    background-color: aquamarine;
+}
